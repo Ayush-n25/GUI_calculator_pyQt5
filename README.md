@@ -20,12 +20,12 @@ Make sure you have Python and PyQt5 installed on your system. You can install Py
 pip install PyQt5
 ```
 ## Usage
-### 1. Clone the repository:
+#### 1. Clone the repository:
 ```bash
 git clone https://github.com/Ayush-n25/GUI_calculator_pyQt5.git
 cd GUI_calculator_pyQt5
 ```
-### Run the calculator application:
+#### 2. Run the calculator application:
 ```bash
 python controller.py
 ```
