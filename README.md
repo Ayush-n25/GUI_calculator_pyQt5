@@ -8,7 +8,6 @@ This is a simple calculator application built using PyQt5 that follows the Model
 
 - Basic arithmetic operations: addition, subtraction, multiplication, and division.
 - A clean and user-friendly interface.
-- Round buttons.
 - Stylish color scheme.
 
 ## Getting Started
